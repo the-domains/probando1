@@ -1,0 +1,14 @@
+layout_spectrum: 0.006165982
+typography_spectrum: 0.9911318
+color:
+  saturation: 0.6941923
+  lightness: 0.6691012
+  brandStrength: 0.8495514
+  rhythmicContrast: 0.1676623
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Probando1
